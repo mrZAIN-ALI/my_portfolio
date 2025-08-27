@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="flutter-a" gradientUnits="userSpaceOnUse" x1="64" y1="7.34" x2="64" y2="120.66">
+      <stop offset="0" stop-color="#42a5f5"/>
+      <stop offset="1" stop-color="#1976d2"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" fill="url(#flutter-a)" rx="12"/>
+  <g fill="#fff">
+    <path d="M25 40l40-20 40 20-40 20z"/>
+    <path d="M25 40v48l40 20 40-20V40"/>
+    <path d="M65 30v68l30-15V45z" fill="#81c784"/>
+    <path d="M35 45v38l30 15V60z" fill="#4fc3f7"/>
+  </g>
+</svg>

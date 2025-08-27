@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="heroku-a" gradientUnits="userSpaceOnUse" x1="64" y1="7.34" x2="64" y2="120.66">
+      <stop offset="0" stop-color="#6762a6"/>
+      <stop offset="1" stop-color="#430098"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" fill="url(#heroku-a)" rx="12"/>
+  <g fill="#fff">
+    <path d="M25 20h78v88H25z"/>
+    <path d="M35 30v68h58V30z" fill="url(#heroku-a)"/>
+    <path d="M45 45h38v8H45zM45 60h38v8H45zM45 75h38v8H45z"/>
+  </g>
+</svg>

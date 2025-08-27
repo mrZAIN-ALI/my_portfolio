@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="postman-a" gradientUnits="userSpaceOnUse" x1="64" y1="7.34" x2="64" y2="120.66">
+      <stop offset="0" stop-color="#ff6c37"/>
+      <stop offset="1" stop-color="#ff6c37"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" fill="url(#postman-a)" rx="12"/>
+  <g fill="#fff">
+    <path d="M35 35h58v10H35zM35 50h58v10H35zM35 65h58v10H35zM35 80h38v10H35z"/>
+    <circle cx="89" cy="85" r="8"/>
+    <path d="M81 85h16"/>
+  </g>
+</svg>

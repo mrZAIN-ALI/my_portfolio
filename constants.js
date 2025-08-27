@@ -64,6 +64,10 @@ export const SOCIAL_LINKS = [
     name: "github",
     url: "https://github.com/mrZAIN-ALI",
   },
+  {
+    name: "phone",
+    url: "tel:+923052563405",
+  },
 ];
 
 export const SKILLS = {

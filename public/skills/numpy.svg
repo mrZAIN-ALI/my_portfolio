@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="numpy-a" gradientUnits="userSpaceOnUse" x1="64" y1="7.34" x2="64" y2="120.66">
+      <stop offset="0" stop-color="#4d77cf"/>
+      <stop offset="1" stop-color="#4dabcf"/>
+    </linearGradient>
+  </defs>
+  <path d="M64 7.34l-56.66 32.67v64.32L64 136.66l56.66-32.67V39.67z" fill="url(#numpy-a)"/>
+  <path d="M64 16.19l-47.81 27.67v55.33L64 126.86l47.81-27.67V43.86z" fill="#fff"/>
+  <g fill="#013243">
+    <path d="M50.13 48.65h27.74v5.2H50.13z"/>
+    <path d="M50.13 58.05h27.74v5.2H50.13z"/>
+    <path d="M50.13 67.45h27.74v5.2H50.13z"/>
+    <path d="M50.13 76.85h27.74v5.2H50.13z"/>
+  </g>
+</svg>

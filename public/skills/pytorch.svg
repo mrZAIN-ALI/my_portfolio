@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="pytorch-original-a" gradientUnits="userSpaceOnUse" x1="72.549" y1="540.532" x2="55.613" y2="523.596" gradientTransform="matrix(4.537 0 0 -4.537 -220.44 2532.8)">
+      <stop offset="0" stop-color="#ee4c2c"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <path d="M81.8 28.1c-7.2 0-13 5.8-13 13s5.8 13 13 13 13-5.8 13-13-5.8-13-13-13zM64 0C28.7 0 0 28.7 0 64s28.7 64 64 64 64-28.7 64-64S99.3 0 64 0zm0 120C33.1 120 8 94.9 8 64S33.1 8 64 8s56 25.1 56 56-25.1 56-56 56z" fill="url(#pytorch-original-a)"/>
+  <circle cx="81.8" cy="41.1" r="13" fill="#ee4c2c"/>
+</svg>

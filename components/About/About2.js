@@ -52,9 +52,9 @@ const About2 = ({ clientHeight }) => {
               WebkitTextFillColor: "transparent",
             }}
           >
-            strong
+            passion
           </span>{" "}
-          obsession for attention to detail.
+          for building intelligent and scalable applications.
         </h1>
       </div>
     </section>

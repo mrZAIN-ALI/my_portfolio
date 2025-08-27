@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#000" rx="6"/>
+  <g fill="#fff">
+    <path d="M25 35l39-10 39 10v10L64 55 25 45z"/>
+    <path d="M25 45v48l39 10 39-10V45"/>
+    <path d="M25 55v38l39 10 39-10V55" fill="none" stroke="#fff" stroke-width="2"/>
+    <path d="M25 65v28l39 10 39-10V65" fill="none" stroke="#fff" stroke-width="2"/>
+    <text x="64" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">▲</text>
+  </g>
+</svg>

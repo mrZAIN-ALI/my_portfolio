@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="scikit-learn-a" gradientUnits="userSpaceOnUse" x1="21.33" y1="106.67" x2="106.67" y2="21.33">
+      <stop offset="0" stop-color="#ff9500"/>
+      <stop offset=".5" stop-color="#f89939"/>
+      <stop offset="1" stop-color="#f78c40"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" fill="url(#scikit-learn-a)" rx="6"/>
+  <g fill="#fff">
+    <circle cx="35" cy="45" r="8"/>
+    <circle cx="64" cy="35" r="8"/>
+    <circle cx="93" cy="45" r="8"/>
+    <circle cx="35" cy="83" r="8"/>
+    <circle cx="64" cy="93" r="8"/>
+    <circle cx="93" cy="83" r="8"/>
+    <path d="M35 53l29 10M93 53L64 63M35 75l29-10M93 75L64 65"/>
+  </g>
+</svg>
