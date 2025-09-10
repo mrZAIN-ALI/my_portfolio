@@ -16,6 +16,7 @@ import Collaboration from "@/components/Collaboration/Collaboration";
 import Contact from "@/components/Contact/Contact";
 import Footer from "@/components/Footer/Footer";
 import { displayFancyLogs } from "utils/log";
+// import { displayFancyLogs } from "utils/log";
 
 gsap.registerPlugin(ScrollTrigger);
 gsap.config({ nullTargetWarn: false });
